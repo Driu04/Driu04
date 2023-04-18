@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <br>Languages & Tools:<br>
 ![](https://github.com/Driu04/Driu04/blob/main/icons/python-icon.svg)
 ![](https://github.com/Driu04/Driu04/blob/main/icons/java-icon.svg)
-![](https://github.com/Driu04/Driu04/blob/main/icons/)
+![](https://github.com/Driu04/Driu04/blob/main/icons/csharp-icon.svg)
 ![](https://github.com/Driu04/Driu04/blob/main/icons/php-icon.svg)
 ![](https://github.com/Driu04/Driu04/blob/main/icons/)
 ![](https://github.com/Driu04/Driu04/blob/main/icons/html5-icon.svg)
