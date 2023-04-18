@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ![](https://github.com/Driu04/Driu04/blob/main/icons/mysql-ar21.svg)
 ![](https://github.com/Driu04/Driu04/blob/main/icons/html5-icon.svg)
 ![](https://github.com/Driu04/Driu04/blob/main/icons/css-icon.svg)
-![](https://github.com/Driu04/Driu04/blob/main/icons/)
+![](https://github.com/Driu04/Driu04/blob/main/icons/javascript-icon.svg)
 ![](https://github.com/Driu04/Driu04/blob/main/icons/unity3d-icon.svg)
 
 <br>Libraries & Frameworks:<br>
