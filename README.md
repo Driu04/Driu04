@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<br>Connect with me:<br>
+Connect with me:<br>
 ![](https://github.com/Driu04/Driu04/blob/main/icons/twitter-official.svg)
 
 Languages & Tools:<br>
@@ -32,7 +32,7 @@ Languages & Tools:<br>
 ![](https://github.com/Driu04/Driu04/blob/main/icons/javascript-icon.svg)
 ![](https://github.com/Driu04/Driu04/blob/main/icons/unity3d-icon.svg)
 
-<br>Libraries & Frameworks:<br>
+Libraries & Frameworks:<br>
 ![](https://github.com/Driu04/Driu04/blob/main/icons/)
 ![](https://github.com/Driu04/Driu04/blob/main/icons/nodejs-ar21.svg)
 ![](https://github.com/Driu04/Driu04/blob/main/icons/expressjs-ar21.svg)
