@@ -36,6 +36,6 @@ Here are some ideas to get you started:
 ![](https://github.com/Driu04/Driu04/blob/main/icons/)
 ![](https://github.com/Driu04/Driu04/blob/main/icons/nodejs-ar21.svg)
 ![](https://github.com/Driu04/Driu04/blob/main/icons/expressjs-ar21.svg)
-![](https://github.com/Driu04/Driu04/blob/main/icons/padnas-icon.svg)
+![](https://github.com/Driu04/Driu04/blob/main/icons/pandas-icon.svg)
 ![](https://github.com/Driu04/Driu04/blob/main/icons/)
 ![](https://github.com/Driu04/Driu04/blob/main/icons/opencv-icon.svg)
