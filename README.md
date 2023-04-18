@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <br>Connect with me:<br>
 ![](https://github.com/Driu04/Driu04/blob/main/icons/twitter-official.svg)
 
-<br>Languages & Tools:<br>
+Languages & Tools:<br>
 ![](https://github.com/Driu04/Driu04/blob/main/icons/python-icon.svg)
 ![](https://github.com/Driu04/Driu04/blob/main/icons/java-icon.svg)
 ![](https://github.com/Driu04/Driu04/blob/main/icons/csharp-icon.svg)
