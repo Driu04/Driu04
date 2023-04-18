@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Connect with me:
+Connect with me:<br>
 ![](https://github.com/Driu04/Driu04/blob/main/icons/twitter-official.svg)
 
-Languages & Tools:
+Languages & Tools:<br>
 ![](https://github.com/Driu04/Driu04/blob/main/icons/python-icon.svg)
 ![](https://github.com/Driu04/Driu04/blob/main/icons/java-icon.svg)
 ![](https://github.com/Driu04/Driu04/blob/main/icons/)
@@ -32,7 +32,7 @@ Languages & Tools:
 ![](https://github.com/Driu04/Driu04/blob/main/icons/)
 ![](https://github.com/Driu04/Driu04/blob/main/icons/unity3d-icon.svg)
 
-Libraries & Frameworks:
+Libraries & Frameworks:<br>
 ![](https://github.com/Driu04/Driu04/blob/main/icons/)
 ![](https://github.com/Driu04/Driu04/blob/main/icons/nodejs-ar21.svg)
 ![](https://github.com/Driu04/Driu04/blob/main/icons/expressjs-ar21.svg)
