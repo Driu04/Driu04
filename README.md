@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 Connect with me:<br>
-[![Twitter](https://twitter.com/driu_a](https://github.com/Driu04/Driu04/blob/main/icons/twitter-official.svg)](https://twitter.com/driu_a)
+[![Twitter](https://github.com/Driu04/Driu04/blob/main/icons/twitter-official.svg)](https://twitter.com/driu_a)
 
 Languages & Tools:<br>
 ![](https://github.com/Driu04/Driu04/blob/main/icons/python-icon.svg)
