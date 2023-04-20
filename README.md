@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Andrea Davoli
+# Hi there 👋, I'm Andrea Davoli
 
 - 🔭 I’m currently working on personal projects.
 - 🌱 I’m currently learning.
