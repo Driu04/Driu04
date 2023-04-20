@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Andrea Davoli
 
 - 🔭 I’m currently working on personal projects.
-- 🌱 I’m currently learning Spring framework.
+- 🌱 I’m currently learning.
 
 <!--
 **Driu04/Driu04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Connect with me:<br>
+### Connect with me:<br>
 [![Twitter](https://github.com/Driu04/Driu04/blob/main/icons/twitter-official.svg)](https://twitter.com/driu_a)
 
-Languages & Tools:<br>
+### Languages & Tools:<br>
 ![](https://github.com/Driu04/Driu04/blob/main/icons/python-icon.svg)
 ![](https://github.com/Driu04/Driu04/blob/main/icons/java-icon.svg)
 ![](https://github.com/Driu04/Driu04/blob/main/icons/csharp-icon.svg)
@@ -32,7 +32,7 @@ Languages & Tools:<br>
 ![](https://github.com/Driu04/Driu04/blob/main/icons/javascript-icon.svg)
 ![](https://github.com/Driu04/Driu04/blob/main/icons/unity3d-icon.svg)
 
-Libraries & Frameworks:<br>
+### Libraries & Frameworks:<br>
 ![](https://github.com/Driu04/Driu04/blob/main/icons/)
 ![](https://github.com/Driu04/Driu04/blob/main/icons/nodejs-ar21.svg)
 ![](https://github.com/Driu04/Driu04/blob/main/icons/expressjs-ar21.svg)
