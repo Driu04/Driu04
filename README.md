@@ -37,4 +37,5 @@ Here are some ideas to get you started:
 ![](https://github.com/Driu04/Driu04/blob/main/icons/numpy-icon.svg)
 ![](https://github.com/Driu04/Driu04/blob/main/icons/pandas-icon.svg)
 ![](https://github.com/Driu04/Driu04/blob/main/icons/seaborn-icon.svg)
+![](https://github.com/Driu04/Driu04/blob/main/icons/matplotlib_icon.svg)
 ![](https://github.com/Driu04/Driu04/blob/main/icons/opencv-icon.svg)
