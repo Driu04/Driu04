@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Andrea Davoli
 
 - 🔭 I’m currently working on personal projects.
-- 🌱 I’m currently learning SQL.
+- 🌱 I’m currently learning PHP & SQL.
 
 <!--
 **Driu04/Driu04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
